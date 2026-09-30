@@ -1,6 +1,0 @@
-streamlit>=1.45
-numpy
-pandas
-plotly>=5.20
-openpyxl
-pillow
